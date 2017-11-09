@@ -1,0 +1,6 @@
+[submodule "progressbar"]
+	path = src/component/progressbar
+	url = https://github.com/Dannible/progressbar.git
+[submodule "searchbar"]
+	path = src/component/searchbar
+	url = https://github.com/Dannible/searchbar.git
